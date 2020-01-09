@@ -1,3 +1,4 @@
+![GitHub Logo](https://raw.githubusercontent.com/MCLCoreTeam/Blockchain-Id-Storage/marmara-v1-1-opret-v2/marmara_coin_logo.png)
 # Bitcoind Json Rpc Client for Java
 
 A Java library for the Json Rpc interface of a Bitcoin Fullnode. 
@@ -95,7 +96,10 @@ Bitcoin donations can be sent to:
 	
 Employment opportunities also requested, thanks!
 
-## License
+## contact :  
+B. Gültekin Çetiner http://twitter.com/drcetiner & ~Paro, (c) 2019 
 
-MIT License  
+## Thanks for translation :  
+Betül Zengin  
+https://tr.linkedin.com/in/bet%C3%BCl-zengin-6839b816a
   
